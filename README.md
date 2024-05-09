@@ -1,6 +1,8 @@
 # ZOS Arduino Mobile Phone
 A repository containing documentation of how to build a mobile phone using Arduino which can make/receive calls and send/receive messages with a GUI operating system.
 
+Article documenting this project: https://medium.com/@z.alhajjeh/simplifying-the-complex-building-a-mobile-phone-ec95df2eec71
+
 Desription of each file:
 
 Arduino Libraries - Necessary libraries to be used add libraries inside this directory to your Arduino Library Folder.
